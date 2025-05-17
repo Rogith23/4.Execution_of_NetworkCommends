@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
 ```
-Name : thavanesh
-Reg No : 212224040352
+Name : ROGITH J
+Reg No : 212224040280
 ```
 
 ## AIM :Use of Network commands in Real Time environment
